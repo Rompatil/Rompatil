@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rom Patil | First year College student 
+- 👀 I’m interested in Blockchain Devloping and WEB3
+- 🌱 I’m currently learning Java AND DSA using JAVA
+- 💞️ I’m looking to collaborate on Projects related web development and app development
+- 📫 How to reach me https://twitter.com/RomPatil
