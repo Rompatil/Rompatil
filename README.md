@@ -32,16 +32,13 @@ Co-Founder & Technical Lead @<b>RevelQ</b> (AI spreadsheet intelligence SaaS) | 
 ### [RevelQ](#) — AI Spreadsheet Intelligence SaaS
 Co-founded and technically leading an AI-powered platform that brings spreadsheet intelligence to teams. I lead the technical architecture, product development, and AI integration. Our MVP--built with React, TypeScript, FastAPI, PostgreSQL, and Python (pandas, scikit-learn, Prophet) automates data cleaning, correlation analysis, anomaly detection, and forecasting to produce Power BI-ready outputs and visual PDF summaries.
 
-### [f1-rag](https://github.com/Rompatil/f1-rag) — Production RAG Backend for Formula 1 Data
-A grounded RAG system answering F1 questions from 1995–2026 data. FastAPI + FAISS + sentence-transformers, semantic chunking across 6 data types, LRU caching, 29 passing tests, Claude-powered generation with source citations and confidence scoring.
 
 ### [productpilot](https://github.com/Rompatil/productpilot) — AI Product Copilot
 An AI-native PM workspace: idea → PRD → user stories → roadmap. Next.js 14 (App Router), Supabase with RLS, all AI calls routed through a single reviewable prompt layer.
 
 ### [docgen-ai](https://github.com/Rompatil/docgen-ai) —  AI-powered codebase documentation generator. Analyzes repos via AST parsing and generates architecture docs, API references, module guides, and onboarding material.
 
-### Personal Admin Autopilot & Personal Daily Agent
-Agentic tools automating personal admin and daily workflows.
+
 
 ---
 
